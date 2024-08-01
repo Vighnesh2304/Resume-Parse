@@ -1,0 +1,95 @@
+{
+  "Profile": {
+    "Name": "Vighnesh Kandalgaonkar"
+  },
+  "Contact Details": {
+    "Github": "https://github.com/vighnesh2304",
+    "Portfolio": "https://portfolio-vighnesh2304s-projects.vercel.app/",
+    "LinkedIn": "https://www.linkedin.com/in/vighnesh-kandalgavkar/",
+    "Email": "vkandalgavkar850@gmail.com",
+    "Phone": "+91 9561277014",
+    "Location": "Pune, Maharashtra",
+    "Leetcode": "https://leetcode.com/u/DarkHunter2304/"
+  },
+  "Education": [
+    {
+      "Institution": "Vishwakarma Institute of Information Technology",
+      "Degree": "Bachelor of Technology in Computer Engineering",
+      "GPA": "8.98/10",
+      "Expected Graduation": "June 2025"
+    },
+    {
+      "Institution": "DBATU, Institute of Petrochemical Engineering",
+      "Degree": "Diploma in Information Technology",
+      "GPA": "9.40/10",
+      "Graduation Year": "2019 - 2025"
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "PRIME",
+      "Technologies": ["Python", "Pyttsx3", "Speech Recognition", "PyQt5", "PyQt Designer", "PyInstaller", "Firebase"],
+      "Description": [
+        "Engineered PRIME, a Python-based desktop voice assistant, which streamlined task automation and enhanced productivity by 40%, saving team members approximately 10 hours per week.",
+        "Designed and implemented an extensible plugin architecture with voice-activated commands, improved user interaction efficiency by 35% and facilitated seamless integration of additional features."
+      ]
+    },
+    {
+      "Name": "SmartAdmission: AI-Powered Screening System",
+      "Technologies": ["React", "MongoDB", "API (NodeJS, Express)", "Python", "Pandas"],
+      "Description": [
+        "Developed and implemented an AI-powered Online Admission Screening System utilizing Data Science and ML, optimized application review time by 60%, significantly improving applicant experience and operational efficiency.",
+        "Architected and deployed an interactive web platform with ReactJS and NodeJS/Express, integrating MongoDB for user data; achieved 40% faster data retrieval and enhanced user engagement by 25%.",
+        "Streamlined data processing time by 40%, allowing for faster decision-making in applicant evaluations."
+      ]
+    },
+    {
+      "Name": "Memories",
+      "Technologies": ["MERN", "React", "Tailwind CSS", "API (Node, Express)", "Redux", "MongoDB"],
+      "Description": [
+        "Orchestrated the launch and ongoing management of 'Memories,' a vibrant social media platform for sharing life events; boosted user-generated content by 50%.",
+        "Engineered a user-friendly interface using React and Redux, enhancing user engagement and satisfaction.",
+        "Facilitated interactive monthly virtual events and discussions, resulting in a 45% boost in member engagement and a 30% increase in content sharing within the community."
+      ]
+    },
+    {
+      "Name": "DrowsyDetect",
+      "Technologies": ["Python", "YOLO", "PyTorch", "MongoDB", "React", "NodeJS", "TailwindCSS"],
+      "Description": [
+        "Designed an advanced AI model to detect drowsiness in drivers, incorporating real-time data analysis; the system accurately identified potential fatigue in 95% of test cases, enhancing road safety measures significantly.",
+        "Deep Drowsiness Detection system using YOLO model, PyTorch, and Python, enabling real-time monitoring to distinguish between an alert and drowsy state, contributing to enhanced safety in various contexts."
+      ]
+    }
+  ],
+  "Technical Skills and Competitions": {
+    "Languages": ["Java", "Python", "C/C++", "SQL", "JavaScript", "HTML/CSS"],
+    "Frameworks": ["React", "Node.js", "ExpressJS", "Tailwind CSS", "NLP", "PyTorch", "Pandas"],
+    "Developer Tools": ["Linux", "Git/Github", "Postman", "Docker", "AWS", "Jenkins", "VS Code", "PyCharm", "IntelliJ", "Eclipse"],
+    "Databases": ["MongoDB", "MySQL", "Firebase"],
+    "Others": ["Artificial Intelligence", "Data Science and Machine Learning", "Computer Networks", "Cloud Computing"],
+    "Competitions": ["Smart India Hackathon 2022", "Google WOW’23", "VishwaCTF’23", "Google Cloud Study Jam - 2023"]
+  },
+  "Certifications": [],
+  "Publications": [
+    {
+      "Title": "Machine Learning-based Expert System for Online Admission",
+      "Conference": "Fifteenth International Conference on Recent Trends in Information, Telecommunication and Computing (ITC 2024)"
+    }
+  ],
+  "Entrepreneurial Experience": [
+    {
+      "Company": "SkillCrunch Private Limited",
+      "Position": "Chief Data Officer (CDO)",
+      "Duration": "- Present",
+      "Description": "Develop and execute a data strategy aligned with business goals, leading data management and analysis. Ensure data quality and security through collaboration and governance, driving growth and innovation."
+    }
+  ],
+  "Position of Responsibility": [
+    {
+      "Role": "Event Coordinator Lead",
+      "Organization": "Google Developers Student Club",
+      "Duration": "2023 – 2024",
+      "Description": "Orchestrated and executed over 20 Technical events, increasing community engagement by 40% and fostering a collaborative tech ecosystem that led to 7 new partnerships within a year."
+    }
+  ]
+}

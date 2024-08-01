@@ -1,0 +1,90 @@
+Prompt :- 
+
+I need you to parse the following resume content into JSON format. The resume content is provided below, and the JSON should have sections like 'Profile(contains name)', 'Education', ' Projects', 'Technical Skills and Competitions ', 'Certifications', 'Publications', 'Entrepreneurial Experience' , 'Position of Responsibility'  and 'Contact Details '. Here is the resume content:
+one is pdf and another is txt file of same resume
+
+Input files :- 
+Vighnesh_Resum_DSML.pdf
+Vighnesh_Resum_DSML.txt
+
+
+for example resume Here is the txt file of my resume :-
+Vighnesh Kandalgaonkar
+§ vighnesh2304  iamvighneshsk.com ï vighnesh-kandalgavkar # vkandalgavkar850@gmail.com
+ +91 9561277014 + Pune, Maharashtra Ð Leetcode
+
+Education
+Vishwakarma Institute of Information Technology
+
+Expected June 2025
+
+Bachelor of Technology in Computer Engineering
+
+Current GPA: 8.98/10
+
+DBATU,Institute of Petrochemical Engineering
+Diploma in Information Technology
+
+2019 - 2025
+Current GPA: 9.40/10
+
+Projects
+PRIME | Python, Pyttsx3, Speech Recognition, PyQt5, PyQt Designer, PyInstaller, Firebase
+• Engineered PRIME, a Python-based desktop voice assistant, which streamlined task automation and enhanced
+productivity by 40%, saving team members approximately 10 hours per week.
+• Designed and implemented an extensible plugin architecture with voice-activated commands. improved user
+interaction efficiency by 35% and facilitated seamless integration of additional features
+SmartAdmission: AI-Powered Screening System | React, MongoDB, API (NodeJS, Express), Python, Pandas
+• Developed and implemented an AI-powered Online Admission Screening System utilizing Data Science and ML.
+optimized application review time by 60%, significantly improving applicant experience and operational efficiency
+• Architected and deployed an interactive web platform with ReactJS and NodeJS/Express, integrating MongoDB for
+user data; achieved 40% faster data retrieval and enhanced user engagement by 25%
+• streamlined data processing time by 40%, allowing for faster decision-making in applicant evaluations.
+Memories | MERN, React, Tailwind CSS, API (Node, Express), Redux , MongoDB
+• Orchestrated the launch and ongoing management of ’Memories,’ a vibrant social media platform for sharing life
+events; boosted user-generated content by 50%.
+• Engineered a user-friendly interface using React and Redux, enhancing user engagement and satisfaction.
+• Facilitated interactive monthly virtual events and discussions, resulting in a 45% boost in member engagement and
+a 30% increase in content sharing within the community.
+DrowsyDetect | Python, YOLO, , PyTorch, Mongodb, React, NodeJS, TailwindCSS
+• Designed an advanced AI model to detect drowsiness in drivers, incorporating real-time data analysis; the system
+accurately identified potential fatigue in 95% of test cases, enhancing road safety measures significantly.
+• Deep Drowsiness Detection system using YOLO model, PyTorch, and Python, enabling real-time monitoring to
+distinguish between an alert and drowsy state, contributing to enhanced safety in various contexts.
+
+Technical Skills and Competitions
+Languages: Java, Python, C/C++, SQL, JavaScript, HTML/CSS
+Frameworks: React, Node.js, ExpressJS, Tailwind CSS, NLP, PyTorch, Pandas
+Developer Tools: Linux, Git/Github, Postman, Docker, AWS, Jenkins, VS Code, PyCharm, IntelliJ, Eclipse
+Databases:MongoDB, MySQL, Firebase
+Others:Artificial Intelligence, Data Science and Machine Learning, Computer Networks, Cloud Computing
+Competitions:Smart India Hackathon 2022, Google WOW’23, VishwaCTF’23, Google Cloud Study Jam - 2023
+
+Publications
+Machine Learning-based Expert System for Online Admission
+
+ITC 2024
+
+Fifteenth International Conference on Recent Trends in Information, Telecommunication and Computing
+
+Entrepreneurial Experience
+SkillCrunch Private Limited | Chief Data Officer (CDO)
+•
+
+- Present
+
+Develop and execute a data strategy aligned with business goals, leading data management and analysis. Ensure
+data quality and security through collaboration and governance, driving growth and innovation.
+
+Position of Responsibility
+”Event Coordinator Lead”at Google Developers Student Club
+
+2023 – 2024
+
+Orchestrated and executed over 20 Technical events, increasing community engagement by 40% and fostering a
+collaborative tech ecosystem that led to 7 new partnerships within a year
+
+
+
+
+Output the above resume content in the JSON format

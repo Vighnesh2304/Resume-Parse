@@ -22,7 +22,7 @@
       "Institution": "DBATU, Institute of Petrochemical Engineering",
       "Degree": "Diploma in Information Technology",
       "GPA": "9.40/10",
-      "Graduation Year": "2019 - 2025"
+      "Graduation Year": "2019 - 2022"
     }
   ],
   "Projects": [
